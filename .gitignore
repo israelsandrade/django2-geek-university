@@ -1,0 +1,7 @@
+__pycache__
+*.*~
+*.pyc
+.idea
+Lib
+Scripts
+pyvenv.cfg
